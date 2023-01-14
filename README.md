@@ -9,8 +9,8 @@
 > Script do Banco de Dados incluso separado
 
 🛠 Ferramentas Utilizadas:
-- BRModelo
-- MySQL Workbench
+- BRModelo (http://www.sis4.com/brModelo/download.html)
+- MySQL Workbench (https://dev.mysql.com/downloads/workbench/)
 
 *Diagrama do Banco de Dados:*
 
