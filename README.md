@@ -6,7 +6,7 @@
  >* Lógico (BRModelo)
  >* Físico (MySQL Workbench)
 
-> Script do Banco de Dados incluso separado
+> Script do Banco de Dados separado
 
 🛠 Ferramentas Utilizadas:
 - BRModelo (http://www.sis4.com/brModelo/download.html)
